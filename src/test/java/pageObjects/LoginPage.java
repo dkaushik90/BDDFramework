@@ -104,7 +104,10 @@ public class LoginPage {
 		logout.click();
 		  }
 		  }
-		  
+	
+	public void viewErrorMessage()
+	{
+		  System.out.println("Test print error message");
 	}
-
+}
 
